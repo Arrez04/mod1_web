@@ -1,0 +1,32 @@
+/* Global Styles */
+body {
+  font-family: "Arial", sans-serif;
+}
+
+.navbar {
+  box-shadow: 0 4px 6px rgb(32, 121, 255);
+}
+
+.hero {
+  background-image: url("../../media/examples/pembukaan.jpg");
+  background-size: cover;
+  background-position: center;
+  color: rgb(238, 255, 0);
+}
+
+.hero h1 {
+  font-size: 3.5rem;
+}
+
+#services {
+  background-color: #23a096;
+}
+
+.card {
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+  background-color: #333;
+}
